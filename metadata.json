@@ -1,0 +1,6 @@
+{
+  "name": "Zeneco Energy - High Converting Solar Installations",
+  "description": "High-converting solar, battery, and EV installations for Central Coast & Newcastle NSW.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
