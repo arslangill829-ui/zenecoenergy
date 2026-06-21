@@ -125,7 +125,7 @@ export default function AboutLocal({ currentRegion, onCtaClick }: AboutProps) {
         <div className="bg-slate-900 text-white rounded-3xl overflow-hidden grid grid-cols-1 lg:grid-cols-12 items-stretch shadow-xl">
           <div className="lg:col-span-5 relative min-h-[250px] lg:min-h-auto overflow-hidden">
             <img
-              src="/src/assets/images/nathan_onsite_1782009867013.jpg"
+              src="assets/images/nathan_onsite_1782009867013.jpg"
               alt="Nathan conducting local solar site inspection in Newcastle NSW"
               className="w-full h-full object-cover select-none"
               referrerPolicy="no-referrer"
