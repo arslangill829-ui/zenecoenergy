@@ -89,7 +89,7 @@ export default function Hero({ currentRegion, onCtaClick }: HeroProps) {
             </div>
 
             <img
-              src="/src/assets/images/zeneco_hero_solar_1782009839986.jpg"
+              src="/assets/images/zeneco_hero_solar_1782009839986.jpg"
               alt="Zeneco Energy custom solar installation on sleek beach house Central Coast"
               className="rounded-[28px] w-full h-[320px] md:h-[420px] object-cover hover:scale-102 transition duration-500 select-none"
               referrerPolicy="no-referrer"
