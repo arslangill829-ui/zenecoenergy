@@ -84,7 +84,7 @@ export default function Services({ currentRegion, onCtaClick }: ServiceProps) {
           <div className="lg:col-span-6 order-1 lg:order-2">
             <div className="rounded-3xl border border-slate-100 p-2 bg-slate-50 shadow-lg overflow-hidden relative group">
               <img
-                src="/src/assets/images/zeneco_hero_solar_1782009839986.jpg"
+                src="assets/images/zeneco_hero_solar_1782009839986.jpg"
                 alt="Elite black Solar system panels on Australian residence"
                 className="rounded-2xl w-full h-[350px] object-cover hover:scale-102 transition duration-500 select-none"
                 referrerPolicy="no-referrer"
@@ -103,7 +103,7 @@ export default function Services({ currentRegion, onCtaClick }: ServiceProps) {
           <div className="lg:col-span-6 order-1">
             <div className="rounded-3xl border border-slate-100 p-2 bg-slate-50 shadow-lg overflow-hidden relative group">
               <img
-                src="/src/assets/images/battery_ev_hub_1782009889323.jpg"
+                src="assets/images/battery_ev_hub_1782009889323.jpg"
                 alt="Sleek home solar battery and EV charger installation"
                 className="rounded-2xl w-full h-[350px] object-cover hover:scale-102 transition duration-500 select-none"
                 referrerPolicy="no-referrer"
